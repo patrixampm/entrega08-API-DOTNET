@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0Yra7dHOpTvq9jx/S5YeqpS8irIQpY+17Aykc0pu1Ew=",
+  "Source": "Event_APIREST",
+  "BasePath": "_content/Event_APIREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

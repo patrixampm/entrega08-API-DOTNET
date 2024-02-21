@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|c:\\users\\patri\\desktop\\backend\\08-entrega-api-dotnet\\eventapirest\\event_apirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|c:\\users\\patri\\desktop\\backend\\08-entrega-api-dotnet\\eventapirest\\event_apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|c:\\users\\patri\\desktop\\backend\\08-entrega-api-dotnet\\eventapirest\\event_apirest\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|solutionrelative:repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|c:\\users\\patri\\desktop\\backend\\08-entrega-api-dotnet\\eventapirest\\event_apirest\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|solutionrelative:interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|c:\\users\\patri\\desktop\\backend\\08-entrega-api-dotnet\\eventapirest\\event_apirest\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|c:\\users\\patri\\desktop\\backend\\08-entrega-api-dotnet\\eventapirest\\event_apirest\\interfaces\\iparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|solutionrelative:interfaces\\iparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|c:\\users\\patri\\desktop\\backend\\08-entrega-api-dotnet\\eventapirest\\event_apirest\\repositories\\participantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|solutionrelative:repositories\\participantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|c:\\users\\patri\\desktop\\backend\\08-entrega-api-dotnet\\eventapirest\\event_apirest\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6482881A-B3E3-4AB8-A166-824621C81523}|Event_APIREST.csproj|solutionrelative:controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:56:05.857Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-20T09:09:43.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IParticipantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Interfaces\\IParticipantRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IParticipantRepository.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Interfaces\\IParticipantRepository.cs",
+              "RelativeToolTip": "Interfaces\\IParticipantRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:12:28.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParticipantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Repositories\\ParticipantRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ParticipantRepository.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Repositories\\ParticipantRepository.cs",
+              "RelativeToolTip": "Repositories\\ParticipantRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:22:04.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "Repositories\\EventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:21:39.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParticipantController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Controllers\\ParticipantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParticipantController.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Controllers\\ParticipantController.cs",
+              "RelativeToolTip": "Controllers\\ParticipantController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:26:07.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Interfaces\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Interfaces\\IEventRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T11:56:16.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\BackEnd\\08-entrega-API-dotnet\\EventAPIREST\\Event_APIREST\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T11:44:32.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
